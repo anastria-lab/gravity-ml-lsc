@@ -1,0 +1,14 @@
+# shp
+*.cpg
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shp.xml
+*.shx
+*.zip
+
+# folders
+geology_coastal_areas/
+EAGME/
