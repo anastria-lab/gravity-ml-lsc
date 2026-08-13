@@ -1,3 +1,6 @@
+# env
+.venv/
+
 # shp
 *.cpg
 *.dbf
@@ -8,6 +11,7 @@
 *.shp.xml
 *.shx
 *.zip
+*.qgz
 
 # folders
 geology_coastal_areas/
